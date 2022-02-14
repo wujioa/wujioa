@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wujioa
+- 👋 Hi, I’m wujioa
 - 👀 I’m interested in Java,Go,Rust,Clojure
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
